@@ -1,3 +1,5 @@
+package DSA_EASY;
+
 public class Practice191125 {
 
     public static void main(String[] args) {
